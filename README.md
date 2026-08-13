@@ -10,6 +10,7 @@
 - **Прогрессия:** двойной прыжок (за 500 очков), планирование (глава 2)
 - **Сюжетные катсцены** между главами (иллюстрированные слайды)
 - **Звук и музыка** — звуковые эффекты и атмосферно-оркестровые треки по главам, плюс настройки громкости (звук / музыка)
+- **Настройки экрана** — полноэкранный (без рамки) / оконный режим, переключение в меню и на паузе, выбор сохраняется
 - **2 режима** — обычный (3 жизни, retry) и хардкор (1 жизнь)
 - **Локализация** RU / EN (переключение в меню), **сохранение прогресса**
 
@@ -42,6 +43,7 @@
 - **Progression:** double jump (500 points), glide (chapter 2)
 - **Story cutscenes** between chapters (illustrated slides)
 - **Audio & music** — sound effects and atmospheric/orchestral per-chapter tracks, plus volume settings (sound / music)
+- **Display settings** — borderless fullscreen / windowed mode, toggle in menu and pause, choice is saved
 - **2 modes** — normal (3 lives, retry) and hardcore (1 life)
 - **Localization** RU / EN (toggle in menu), **save system**
 
